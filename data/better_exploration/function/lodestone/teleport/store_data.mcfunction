@@ -23,5 +23,7 @@ execute at @s run particle minecraft:dust_plume ~ ~1 ~ .5 .5 .5 0 50
 execute at @s run function better_exploration:lodestone/teleport/check_location/blocks
 
 
+#remove tag
+tag @s remove better_exploration.current_player
 #revoke advancement
 advancement revoke @s only better_exploration:lodestone/eat_chorus_fruit
