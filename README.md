@@ -1,2 +1,2 @@
 # BetterExploration
-Adds tools to Minecraft to make exploration more rewarding, interesting, and repeatable.
+Adds features to Minecraft to make exploration more rewarding, interesting, and repeatable.
